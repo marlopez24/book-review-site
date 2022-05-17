@@ -1,12 +1,29 @@
 h1 {
-    background-color: rgb(84, 44, 123);
-    color: rgb(132, 173, 228);
-    border: 5px solid rgb(139, 190, 235);
+    background-color:rgb(101, 19, 101);
+    color: rgb(212, 114, 212);
+    border: 5px solid rgb(80, 35, 107);
     border-radius: 3px;
+    text-align: center;
 }
 
 footer {
     background-color:rgb(101, 19, 101);
-    color: rgb(212, 114, 212);
+    color: rgb(210, 113, 210);
     border-radius: 2px;
+}
+
+body {
+    background-color:rgb(198, 177, 205);
+    font-family: Cochin, 'Times New Roman';
+}
+
+
+.italicize {
+    font-style: italic
+
+}
+
+
+.nobull {
+    list-style-type: none;
 }
