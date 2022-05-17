@@ -1,9 +1,15 @@
 h1 {
     background-color:rgb(101, 19, 101);
-    color: rgb(212, 114, 212);
+    color: rgb(225, 172, 225);
     border: 5px solid rgb(80, 35, 107);
     border-radius: 3px;
     text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color: rgb(103, 17, 103);
+
 }
 
 footer {
@@ -15,6 +21,7 @@ footer {
 body {
     background-color:rgb(198, 177, 205);
     font-family: Cochin, 'Times New Roman';
+    text-align: center;
 }
 
 
@@ -26,4 +33,17 @@ body {
 
 .nobull {
     list-style-type: none;
+}
+
+
+
+.contact-link:hover {
+    color: rgb(226, 138, 216);
+} 
+
+img {
+    background-color: rgb(251, 249, 251);
+    border-width: 4px;
+    border-style: double;
+    border-color: rgb(141, 46, 162);
 }
