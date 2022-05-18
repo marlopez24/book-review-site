@@ -1,9 +1,15 @@
 .review-color {
-    background-color: rgb(238, 237, 237);
+    background-color: rgb(161, 153, 161, .4);
     line-height: 150%;
 }
 
 
 body {
-    background-color: rgb(234, 225, 251);
+    background-color: rgb(222, 205, 225);
+}
+
+.description-style {
+    font-size: 17px;
+    background-color: rgba(155, 118, 155, 0.4);
+    line-height: 170%;
 }
